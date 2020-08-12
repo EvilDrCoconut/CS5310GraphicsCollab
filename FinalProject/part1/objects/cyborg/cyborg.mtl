@@ -1,7 +1,7 @@
-# Blender MTL File: 'planet.blend'
+# Blender MTL File: 'cyborg.blend'
 # Material Count: 1
 
-newmtl planet
+newmtl Cyborg
 Ns 92.156863
 Ka 0.000000 0.000000 0.000000
 Kd 0.512000 0.512000 0.512000
@@ -9,6 +9,6 @@ Ks 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd planet_diffuse.ppm
-map_Bump planet_normal.ppm
-map_Ks planet_specular.ppm
+map_Kd cyborg_diffuse.ppm
+map_Bump cyborg_normal.ppm
+map_Ks cyborg_specular.ppm

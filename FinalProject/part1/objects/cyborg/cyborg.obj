@@ -1,7 +1,7 @@
-# Blender v2.71 (sub 0) OBJ File: 'planet.blend'
+# Blender v2.71 (sub 0) OBJ File: 'cyborg.blend'
 # www.blender.org
-mtllib planet.mtl
-o planet
+mtllib cyborg.mtl
+o Cyborg
 v -0.045017 3.403811 0.093900
 v -0.050055 3.402975 0.088766
 v -0.048559 3.401740 0.096941
@@ -7952,7 +7952,7 @@ vn 0.081700 0.553100 0.829100
 vn -0.321000 0.578800 0.749600
 vn -0.260800 0.747800 0.610500
 vn -0.134500 0.850300 0.508700
-usemtl planet
+usemtl Cyborg
 s 1
 f 1/1/1 2/2/2 3/3/3
 f 4/4/4 5/5/5 6/6/6
