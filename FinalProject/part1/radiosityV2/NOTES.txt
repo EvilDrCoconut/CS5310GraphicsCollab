@@ -1,0 +1,8 @@
+Site for "seamless textures" (gotta convert form jpg to ppm)
+- http://www.cadhatch.com/seamless-textures/4588167680
+
+Site for converting jpg to ppm
+- https://convertio.co/
+
+Site for more object files (need to create a free account)
+- https://www.cgtrader.com/
